@@ -14,9 +14,9 @@
  * Data is written to the file using a SD multiple block write command.
  */
 //=============================================================================
-int buttonRec = 9;
-int buttonCvt = 8;
-int buttonIdk = 7;
+int buttonRec = 9; //buttonRec will start/finishing dataloggings and recording BIN file
+int buttonCvt = 8; //buttonCvt will convert latest BIN file into csv file
+int buttonIdk = 7; //It is for a button I just installed for further functionallity which is not determinded. Idk means I don't know. 
 //=============================================================================
 
  
